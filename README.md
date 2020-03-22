@@ -29,3 +29,7 @@ https://start.spring.io/
 https://www.djangoproject.com/
 
 https://brew.sh/
+
+https://github.com/catalinmiron/react-typical
+
+https://github.com/Wufe/react-particles-js
